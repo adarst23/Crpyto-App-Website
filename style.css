@@ -1,0 +1,34 @@
+.dark{
+    background-color: #0b0f19;
+}
+.dark-2{
+    background-color: #151822;
+}
+.purple{
+    background-color: ;
+}
+.starting-btn{
+    background-color: #4044ee;
+    color: white;
+}
+.starting-btn:hover{
+    background-color: white;
+}
+.download-btn{
+    background-color: #7952B3; 
+}
+.iphone{
+    transform: rotate(  10deg);
+}
+
+@media (max-width:767.98px) {
+    .btn-sm-block { width: 100%; display:block; }
+    .border-lg{
+        border-bottom: 0 !important;
+    }
+ }   
+ @media (min-width:992px){
+    .w-lg-50{
+        width: 50% !important;
+    }
+ }
