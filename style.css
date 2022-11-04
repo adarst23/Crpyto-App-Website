@@ -1,11 +1,10 @@
-.dark{
-    background-color: #0b0f19;
+.dark, body{
+    background-color: #0b0f19;    
+    /* #E0D2EB */
 }
 .dark-2{
     background-color: #151822;
-}
-.purple{
-    background-color: ;
+    /* #F7B3B0 */
 }
 .starting-btn{
     background-color: #4044ee;
@@ -19,6 +18,24 @@
 }
 .iphone{
     transform: rotate(  10deg);
+}
+.bg-gradient-primary {
+    background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 50%, #d946ef 100%) !important;
+}
+.icon-btn{
+    background-color: #151822;
+}
+.facebook:hover{
+    background-color: blue !important;
+}
+.insta:hover{
+    background-color: #fb3958 !important;
+}
+.twitter:hover{
+    background-color: #1DA1F2 !important;
+}
+.youtube:hover{
+    background-color: red !important;
 }
 
 @media (max-width:767.98px) {
